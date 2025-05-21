@@ -133,7 +133,7 @@ Requires: Python 3.8+, PyQt5, OpenCV, scikit-learn, YOLOv5
 
 ## Project Structure
 ```bash
-Real-Time Traffic-Congestion-Signal-Adjustment/
+Real-Time Traffic Congestion Detection and Signal Adjustment/
 ├── data/
 │   └── traffic_dataset.csv
 ├── junction_layouts/
