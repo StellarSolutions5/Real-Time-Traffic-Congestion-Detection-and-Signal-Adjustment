@@ -134,6 +134,10 @@ Requires: Python 3.8+, PyQt5, OpenCV, scikit-learn, YOLOv5
 ## Project Structure
 ```bash
 Real-Time Traffic Congestion Detection and Signal Adjustment/
+├── app/
+│   └── main_app.py
+├── assets/
+│   └── traffic_demo.gif
 ├── data/
 │   └── traffic_dataset.csv
 ├── junction_layouts/
@@ -148,13 +152,12 @@ Real-Time Traffic Congestion Detection and Signal Adjustment/
 │   ├── scaler_X.pkl
 │   ├── scaler_y.pkl
 │   └── traffic_predictor.ipynb
-├── app/
-│   └── main_app.py
 ├── ui/
 │   ├── traffic_ui.ui
 │   └── traffic_ui_controller.py
 ├── vehicle_counter.py
 └── requirements.txt
+
 
 ```
 ---
