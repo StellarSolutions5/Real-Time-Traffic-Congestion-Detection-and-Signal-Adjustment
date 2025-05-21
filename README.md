@@ -1,6 +1,6 @@
 #  Real-Time Traffic Congestion Detection and Signal Adjustment  
-###  Project: TraffixAI  
-###  Organization: StellarSolutions5
+### Project: [TraffixAI](https://github.com/StellarSolutions5/Real-Time-Traffic-Congestion-Detection-and-Signal-Adjustment/projects?query=is%3Aopen)
+### Organization: [StellarSolutions5](https://github.com/StellarSolutions5)
 
 ---
 
@@ -169,15 +169,15 @@ Due to data privacy agreements, the full CCTV-based system cannot be open-source
 
 ## Authors
 
-Zainab Khan	
-
-Mayuri Lakhotia	
-
-Anuja Vaidya	
-
-Parul Nakhate	
-
-Sakshi Kubitkar	
+- [Zainab Khan](https://github.com/ZainabKhan9)
+    
+- [Mayuri Lakhotia](https://github.com/iMayuriLakhotia)
+    
+- [Anuja Vaidya](https://github.com/AnujaVaidya15)
+  
+- [Parul Nakhate](https://github.com/ParulNakhate1)
+    
+- [Sakshi Kubitkar](https://github.com/Sakshisk22)	
 
 ---
 
